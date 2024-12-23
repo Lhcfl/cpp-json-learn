@@ -1,0 +1,1 @@
+err SyntaxError: Unexpected token '/', "{"a":/*comment*/"b"}" is not valid JSON
